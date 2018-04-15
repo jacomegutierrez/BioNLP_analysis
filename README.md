@@ -24,3 +24,27 @@ term pre pos transformed lemma preprocessed
 2. Conditional_random_fields
 
 python3 training-validation-v1.py --inputPath /export/space1/users/guest02/conditional-random-fields/data-sets --trainingFile training-data-set-70.txt --testFile test-data-set-30.txt --outputPath /export/space1/users/guest02/conditional-random-fields > output-training.txt 
+
+3.Output file example from training-validation-v1.py
+
+********** TRAINING AND TESTING REPORT **********
+
+Training file: training-data-set-70.txt
+
+best params:{'c2': 0.07914565142816338, 'c1': 0.21725964976439643}
+
+best CV score:0.8106074404273954
+
+model size: 0.11M
+
+Flat F1: 0.8356545961
+
+             precision    recall  f1-score   support
+
+       GENE      0.915     0.769     0.836       390
+
+avg / total      0.915     0.769     0.836       390
+
+Performance: 0.836
+
+
