@@ -1,0 +1,4 @@
+Regulation of human lung fibroblast C1q-receptors by transforming growth factor-beta and tumor necrosis factor-alpha.
+Transforming growth factor-beta (TGF-beta) and tumor necrosis factor-alpha (TNF-alpha) are two polypeptide mediators which are believed to play a role in the evolution of idiopathic pulmonary fibrosis (IPF).
+We have evaluated the effect of these two substances on the expression of receptors for collagen (cC1q-R) and globular (gC1q-R) domains of C1q and on type I collagen in human lung fibroblasts.
+Two fibroblast subpopulations differing in C1q receptor expression were obtained by culturing human lung explants in medium containing fresh human serum and heated plasma-derived serum and separating them based on C1q binding. 
