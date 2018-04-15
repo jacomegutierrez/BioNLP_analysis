@@ -1,0 +1,595 @@
+latent membrane protein LMP 1
+TGF- b
+SDC2
+tissue factor
+JAK2
+Serpin B4
+WNT10A
+TGFb
+STAT1
+pVHL
+bFGF
+Chop
+Stat3
+Thymic stromal lymphopoietin
+pten
+ANG converting enzyme
+MT1
+Semaphorin 7a
+HLF
+IL-10
+PTEN
+Tb4
+Vasohibin-2
+TGF-beta1
+TIMP-1
+H19
+STIP1
+HSP27
+TGF-b1
+MMP-3
+AKT
+ERK1/2
+Serpin B3
+miR-382
+IL-1beta
+MKL1
+E-cadherin
+endothelin-1
+IL-6
+ICAT
+MAPKAPK2
+c-jun
+PEX13p
+BMPER
+MMP-1
+PTX-2
+PDGB
+MMP-7
+Smad3
+tsp1
+ARPC2
+CD248
+TRPV4
+Protease-activated receptor-1
+HDAC10
+mTORC2
+BMP
+smad2/3
+TGFb2
+bone morphogenetic protein 7
+Hepatocyte growth factor
+hypoxia-inducible factor-1a
+IL18
+SMAD 3
+epidermal growth factor receptor
+Sgpl1
+cartilage oligomeric matrix protein
+Interleukin IL 8
+superoxide dismutase 3
+insulin-like growth factor-1
+IL-17A
+MT3
+FRbeta
+IGF-2
+IL8
+ZO-1
+IKKa
+SRF
+IL-31
+transforming growth factor b-1
+Nox-4
+matrix metalloproteinase-9
+serum response factor
+transforming growth factor beta 1
+serpine1
+heme oxygenase-1
+MT5-MMP
+Stanniocalcin-1
+Caveolin-1
+HIF1a
+transforming growth factor-b1
+prostaglandin F PGF receptor
+platelet-derived growth factor isoforms PDGF A and B
+FGF-1
+FoxP3
+tissue inhibitors of metalloproteinases-1
+Egr-1
+NFkB
+discoidin domain receptor 2
+protease-activated receptor PAR-2
+EZH2
+IQGAP1
+Transforming growth factor-b1
+Toll-like receptor 4
+HDAC6
+ltbp1/2
+miR-487b
+VEGF
+Lin28B
+Oct-4
+serine protease
+150-kDa oxygen-regulated protein
+MicroRNA  miR-221
+tgfb2
+CXCL10
+Lefty A
+phosphoinositide 3-kinase
+MIG
+High mobility group AT-hook 2
+FAK
+HAI-1
+miR-9-5p
+TG2
+p21waf1
+Thymosin b4
+IL-13
+Syndecan-2
+BMP-5
+YY1
+SNAI2
+ORP150
+claudins-1, -3, and -5
+mir-21
+matrix metalloproteinase-3
+b2 -AR
+interleukin-6
+TGFb1
+lymphotactin
+focal adhesion kinase
+FGF-2
+miR  -221
+TbetaRII
+b2 -adrenoceptors
+STUB1
+LC3
+WISP1
+ACTA2
+SpA
+Spiruchostatin A
+SNAI1
+CBP
+AP-1
+SMAD3
+Extracellular Matrix Metalloproteinase Inducer
+BMP-15
+signal transducer and activator of transcription 3
+TGFbeta
+3-hydroxy-3-methylglutaryl CoenzymeA HMG CoA reductase
+Hsp90
+Smad2/3
+IL-8
+thrombin
+peroxisome proliferator-activated receptor-y
+ET-B
+BARD1
+periostin
+CD55
+AT2
+CD90
+TGF beta1
+Serpin B3/B4
+alpha-SMA
+MMP1
+c-Jun
+CRP1
+mTOR
+LTBP] 1, 2, and 4
+IL8, -6, and -1B
+YAP
+lymphotoxin beta receptor
+CCN5
+transforming growth factor-beta 1
+transient receptor potential vanilloid 4
+SFTPC
+alpha-smooth muscle actin
+TOB2
+SMA
+matrix metalloprotease-1
+IL-18
+HO-1
+SMAD2/3
+Endothelin-1
+cyclosporine A
+megakaryoblastic leukemia 1
+MT2
+Pentraxin-2
+matrix metalloproteinase MMP-9
+Vimentin
+beta-catenin
+leucine-rich alpha-2 glycoprotein
+HMGA2
+Wnt5A
+TbRII
+N  -cadherin
+interleukin IL-6
+CD44
+serum amyloid P
+fibroblast growth factor receptor 2
+PIAS4
+beclin 1
+p38
+TNC
+Transforming growth factor-beta1
+MK2
+CC chemokine receptor 2
+HGF
+Nox1
+Forkhead Box F1
+Rpn6
+TLR4
+Ost-4
+KCa3.1
+Col1a2
+phosphoglycerate dehydrogenase
+miR-17   92
+JNK
+extent, type B receptors
+caveolin-1
+GLP-1
+TNF-a
+Endosialin
+TGF-b
+miR-134
+Transforming growth factor-b
+IGFBP-2
+ECSOD
+Bcl-2
+il12p40
+transforming growth factor TGF-beta 1
+IP-10
+NOX4
+cytokeratin 19
+PARP
+mir-155
+Vascular endothelial growth factor
+HIF-1a
+EMMPRIN
+Sulf1
+VASH-2
+p300
+cyclooxygenase 2
+Wnt1-inducible signaling protein 1
+EGFR
+collagen Col1a1
+tgfbr1/2
+CXCL1
+COL1A1
+T beta RII
+Cthrc1
+Sulf2
+NOX-2
+TGFBR2
+thrombospondin-1
+folate receptor beta
+ILK
+NF-kB
+matriptase
+YKL-40
+CCN2
+ErbB2
+E  -cadherin
+CTGF
+Transforming growth factor b
+IL10
+HSP90
+CD8
+Transforming growth factor TGF-beta1
+hepatocyte growth factor
+Janus kinase type 2
+TGFB
+Th1
+SMAD2
+BMP3
+SAP
+hypoxia-inducible factor 1a
+BCL-2
+CD19
+SGPL1
+il17a
+microRNA miR-155
+Mmp19
+Akt2
+poly-ADP ribose polymerase
+C5a
+bone morphogenetic protein
+PINK1
+TGF-beta 1
+Histone deacetylase 6
+transforming growth factor-b
+Lrp5
+Enhancer of zeste homolog 2
+SIRT6
+ACLP
+miR-140
+miR-338
+Smad4
+AAG
+plasminogen activator inhibitor-1
+IGFBP-3
+follistatin
+S1P
+CD25
+TNFalpha
+TGF-beta
+miR-29a
+LEF/TCF
+Wt1
+TGFb-1
+ALK5
+transgelin
+Atg4b
+interleukin IL-1b
+igf1
+RhoA
+interleukin IL-1beta
+mPGES-1
+Nox4
+TLR9
+PAI-1
+ET-A
+Smad 7
+Semaphorin-7A
+IGF-I
+CD4
+TNF-alpha
+Insulin-like growth factor-1
+Sema7a
+fibronectin
+terminal deoxynucleotidyl transferase
+cytosolic phospholipase A2
+TNFa
+PEX13
+PDGF-B
+NEU1
+tenascin-C
+CUX1
+Transforming growth factor beta
+acyl-CoA oxidase 1
+Fstl1
+C5aR
+ANGII
+ITGB6
+Angiotensin II
+Interleukin 17A
+Pigment epithelium-derived factor
+transforming growth factor-beta1
+Snail
+ACE
+SPP1
+vimentin
+Matriptase
+P53
+MMP-2
+TGF-b-1
+nuclear factor erythroid 2-related factor 2
+Periostin
+PDGF-A
+Transforming growth factor-beta
+Sema 7a
+tagln
+monocyte chemoattractant protein 1
+GR
+Collagen Triple Helix Repeat-Containing-1
+Thy-1
+interleukin IL-13
+C/EBP homologous protein
+RAGE
+miR-1343
+transforming growth factor beta-1
+b-FGF
+beta-gal
+MiR-338
+Fas ligand
+semaphorin-7A
+SMAD-3
+histone deacetylase
+bmp1
+COMP
+VASH-1
+JunD
+Mkl1
+HSP47
+NOX-4
+CD68
+Rictor
+PEDF
+IL-4
+Wilms' tumor 1
+interleukin-1beta
+transforming growth factor b
+PPAR
+transforming growth factor b1
+KL-6
+CD46
+annexin V
+matrix metalloproteinase-7
+miR-3107
+MyD88
+tumor necrosis factor-alpha
+Transforming growth factor b-1
+miR-326
+ET-1
+Trx
+Akt
+BI-1
+STAT3
+STC1
+miR-127
+PDGFR
+MCP-1
+PDGF-A and -B
+cPLA2
+Itgb6
+LRP5
+Krebs Von Den Lungen-6
+transforming growth factor TGF-beta1
+USP11
+PPAR-a
+NADPH oxidase 4
+glucagon like peptide-1
+insulin-like growth factor I
+Osteopontin
+PDGF-b
+Jun NH2-terminal kinase
+Transforming growth factor-beta 1
+caspase-3
+PAR-1
+tumor necrosis factor alpha
+miR-31
+insulin-like growth factor-I
+miR-424
+FRNK
+Keap1
+LRG
+integrin-linked kinase
+SOCS1
+a-SMA
+5-HTR1A/B and 5-HTR2B
+sL1
+Mitogen-activated protein kinase-activated protein kinase-2
+miR
+CXCL12
+Galectin-3
+TGFB1
+mPAP
+transforming growth factor b expression
+focal adhesion kinase-related nonkinase
+BMP-7
+Receptor for advanced glycation end products
+Renin
+MMP2
+Nrf2
+miR-154
+Transglutaminase 2
+miR-21
+plasminogen activator inhibitor 1
+Cub domain containing protein 1
+TGFbeta1
+IgG1
+EMT
+PI3K
+glucocorticoid receptor
+transforming growth factor beta
+Bax
+Cysteine-rich protein 1
+miR-26a
+lysyl oxidase
+Janus kinase 2
+mothers against decapentaplegic homolog 3
+Toll-like receptor 9
+VCAM-1
+NOS
+c-Fos
+cyclin D1
+TSLP
+IGF-1
+ALK-5
+Tumor necrosis factor-alpha
+CD11c
+C3aR
+miR-455
+gremlin
+Transforming growth factor beta 1
+TIAM1
+p63
+p21
+IP10
+MRTF-A
+CD206
+C3a
+n-cadherin
+X-linked inhibitor of apoptosis
+Membrane-type MT-MMPs
+RANTES
+SOD3
+activin
+V-ATPase
+transforming growth factor  -b1
+CCN1
+CCl4
+CDCP1
+miR-410
+beta-galactosidase
+suppressor of cytokine signaling 1
+AKT2
+C1q
+serum albumin HSA-thioredoxin 1
+IL-1b
+vascular endothelial growth factor
+protein kinase B
+BMP-8B
+Bax inhibitor-1
+Yin Yang 1
+miR-30a
+Smad2
+CD117
+syndecan-2
+DDR2
+IL-17
+COX-2
+transforming growth factor-beta
+Foxp-3
+smooth muscle a-actin
+smoothened
+Connective tissue growth factor
+CCR2
+interleukin-8
+PHLPP
+SphK
+transforming growth factor beta1
+Elk1
+p65
+Activin
+MAP3K19
+AT1
+galectin-3
+Gremlin
+TGF-alpha
+PAI1
+IFN-gamma
+MMP-9
+SPARC
+IFN-gammaR
+CCL2
+TNFSF14
+CXCR3
+BMPR2
+extracellular superoxide dismutase
+FIEL1
+IL6
+fibroblast growth factor-2
+connective tissue growth factor
+Muc5ac
+b-catenin
+MMP-12
+let-7d
+ATG4B
+TF
+Transforming growth factor beta1
+hyaluronan synthase 2
+Aortic carboxypeptidase-like protein
+secreted protein acidic and rich in cysteine
+renin
+T-cell lymphoma invasion and metastasis 1
+CAV1
+endothelin type A receptors
+miR-5100
+FOXF1
+beta 1 integrin
+Mknk2
+a-smooth muscle actin
+LPA1
+WNT1-inducible signaling pathway protein 1
+HAI-2
+CD34
+COL1A2
+ERK
+Transforming growth factor TGF-b1
+protease-activated receptor-2
+PAR-2
+Insulin-like growth factor binding protein-3
+CXCL9
+TGF  -b1
+PHGDH
+IGFBP-1

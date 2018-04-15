@@ -1,0 +1,11 @@
+{
+	"hashTermFiles": {
+		"GENE": ["genes_1grams.txt", "genes_2grams.txt", "genes_3grams.txt", "genes_4grams.txt", "genes_5grams.txt", "genes_6grams.txt", "genes_7grams.txt", "genes_8grams.txt"]
+	},
+	"hashTerms": {
+		"GENE": []
+	},
+	"hashTagAspect": {
+		"DFAM": "DOM"
+	}
+}

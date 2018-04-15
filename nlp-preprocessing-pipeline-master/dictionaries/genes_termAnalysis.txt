@@ -1,0 +1,613 @@
+#####  FREQUENCY OF LENGTH TERM #####
+1	412		69.24%
+2	55		9.24%
+3	62		10.42%
+4	43		7.23%
+5	17		2.86%
+6	3		0.50%
+7	2		0.34%
+8	1		0.17%
+
+---------------------------------------------#####  TERM OF LENGTH 1 #####
+PTX-2
+Elk1
+SPP1
+LC3
+AT1
+ATG4B
+EZH2
+p38
+TF
+MyD88
+CD90
+Endothelin-1
+tagln
+IQGAP1
+PINK1
+miR-140
+Th1
+IGFBP-1
+syndecan-2
+IL-13
+Nox-4
+IGF-1
+BMP3
+TGF-alpha
+Periostin
+AKT
+activin
+GLP-1
+IGF-2
+HIF-1a
+ANGII
+ACE
+bmp1
+RhoA
+HLF
+Muc5ac
+MK2
+Bcl-2
+let-7d
+VASH-2
+HSP27
+MMP1
+TNF-a
+ECSOD
+Sulf1
+MT1
+CCN1
+Thy-1
+CD19
+HAI-2
+ALK5
+mTORC2
+PTEN
+BMPR2
+PI3K
+Mknk2
+mir-21
+STIP1
+TIMP-1
+MT5-MMP
+HIF1a
+renin
+NEU1
+MMP-1
+SPARC
+Nox1
+PEX13p
+C3a
+miR-31
+MAP3K19
+c-Fos
+ET-B
+USP11
+smad2/3
+TNFa
+PAI-1
+Wnt5A
+IGFBP-3
+VCAM-1
+miR-326
+p21
+MKL1
+HDAC10
+ITGB6
+LPA1
+tgfbr1/2
+YY1
+Caveolin-1
+TNC
+TGFB
+S1P
+Vimentin
+DDR2
+p21waf1
+IL-1beta
+NOX4
+miR-134
+lymphotactin
+TGFbeta
+Keap1
+MT3
+MMP-3
+CUX1
+LEF/TCF
+MCP-1
+PPAR
+TbetaRII
+miR-30a
+TNFSF14
+CD206
+CTGF
+Galectin-3
+ACTA2
+Osteopontin
+TGF-b1
+SGPL1
+Smad3
+NOS
+CXCL9
+beta-catenin
+STC1
+follistatin
+IL8
+miR-424
+Pentraxin-2
+miR-21
+TRPV4
+FOXF1
+thrombin
+ALK-5
+ZO-1
+C3aR
+SNAI2
+TIAM1
+SMAD2/3
+TGFb-1
+miR
+HSP47
+RANTES
+TNF-alpha
+YKL-40
+Smad2/3
+AKT2
+Nox4
+CXCL10
+BMP-5
+IFN-gammaR
+miR-1343
+Rpn6
+ltbp1/2
+IL-6
+CCN5
+NOX-2
+Stat3
+NOX-4
+FIEL1
+miR-154
+Sema7a
+PEX13
+COL1A1
+TNFalpha
+Matriptase
+EGFR
+HGF
+Bax
+interleukin-6
+CCL2
+MMP-12
+IKKa
+miR-26a
+SMAD2
+matriptase
+semaphorin-7A
+Syndecan-2
+ILK
+beta-galactosidase
+LRG
+Cthrc1
+MAPKAPK2
+JNK
+CD25
+PAR-2
+Activin
+BCL-2
+BARD1
+MIG
+Chop
+EMT
+Smad2
+ET-1
+Oct-4
+Lrp5
+IL-31
+NFkB
+TGFBR2
+PPAR-a
+PDGF-b
+transgelin
+HAI-1
+Trx
+PAR-1
+miR-338
+n-cadherin
+interleukin-8
+PHLPP
+FRNK
+thrombospondin-1
+BMP-15
+HMGA2
+CD34
+pVHL
+BI-1
+C1q
+H19
+STUB1
+FoxP3
+SOD3
+p65
+TGF-b-1
+Fstl1
+ET-A
+PDGFR
+vimentin
+BMP-7
+PDGF-B
+Rictor
+WISP1
+interleukin-1beta
+mTOR
+TSLP
+IL-10
+MMP-7
+Akt
+SpA
+CD11c
+Foxp-3
+PARP
+STAT3
+MMP2
+PDGB
+tsp1
+CD4
+FGF-1
+E-cadherin
+TGFb
+tenascin-C
+PDGF-A
+SAP
+beta-gal
+smoothened
+miR-5100
+bFGF
+COL1A2
+SRF
+TGF-beta
+IL18
+ERK1/2
+KL-6
+CCN2
+HO-1
+igf1
+MT2
+C5aR
+CXCL1
+COMP
+Mkl1
+TbRII
+VASH-1
+IGF-I
+TGFbeta1
+CAV1
+PEDF
+PAI1
+CD55
+miR-29a
+FRbeta
+Semaphorin-7A
+AT2
+caveolin-1
+V-ATPase
+Egr-1
+IL6
+AP-1
+Akt2
+Endosialin
+mPGES-1
+CXCL12
+Atg4b
+SNAI1
+STAT1
+P53
+pten
+cPLA2
+Sgpl1
+CD44
+Snail
+Tb4
+MMP-9
+JAK2
+CD117
+miR-9-5p
+Wt1
+miR-487b
+Ost-4
+WNT10A
+mir-155
+HSP90
+il17a
+IP-10
+IgG1
+alpha-SMA
+SMA
+c-Jun
+TOB2
+p63
+TGF-beta1
+JunD
+CRP1
+AAG
+ARPC2
+miR-127
+FAK
+Lin28B
+galectin-3
+EMMPRIN
+ErbB2
+Sulf2
+SIRT6
+NF-kB
+c-jun
+SMAD3
+HDAC6
+miR-455
+periostin
+Renin
+PHGDH
+FGF-2
+MRTF-A
+CBP
+Mmp19
+TGFb2
+SDC2
+IFN-gamma
+ORP150
+BMP-8B
+TGFb1
+CXCR3
+IL-18
+p300
+miR-382
+IL-4
+CD8
+ERK
+Hsp90
+IGFBP-2
+endothelin-1
+b-catenin
+mPAP
+PIAS4
+b-FGF
+KCa3.1
+YAP
+SphK
+CD248
+C5a
+gremlin
+SFTPC
+CCR2
+ACLP
+il12p40
+fibronectin
+Col1a2
+Gremlin
+TGF-b
+miR-410
+Vasohibin-2
+SOCS1
+Smad4
+a-SMA
+BMP
+CD46
+tgfb2
+RAGE
+GR
+Itgb6
+sL1
+TGFB1
+miR-3107
+Stanniocalcin-1
+IP10
+TG2
+IL-17A
+IL-8
+COX-2
+MiR-338
+TLR4
+CDCP1
+ICAT
+BMPER
+VEGF
+MMP-2
+IL10
+TLR9
+SMAD-3
+CD68
+IL-1b
+LRP5
+caspase-3
+CCl4
+serpine1
+IL-17
+Nrf2
+---------------------------------------------#####  TERM OF LENGTH 2 #####
+protease-activated receptor-2
+Lefty A
+interleukin IL-13
+heme oxygenase-1
+Serpin B3/B4
+Spiruchostatin A
+histone deacetylase
+cyclosporine A
+N -cadherin
+Bax inhibitor-1
+matrix metalloproteinase-7
+miR-17 92
+Membrane-type MT-MMPs
+interleukin IL-6
+cytokeratin 19
+tissue factor
+Angiotensin II
+lysyl oxidase
+phosphoinositide 3-kinase
+matrix metalloprotease-1
+Serpin B3
+Thymosin b4
+E -cadherin
+Fas ligand
+TGF beta1
+integrin-linked kinase
+collagen Col1a1
+Semaphorin 7a
+cyclooxygenase 2
+b2 -AR
+Serpin B4
+Interleukin 17A
+Transglutaminase 2
+b2 -adrenoceptors
+Sema 7a
+phosphoglycerate dehydrogenase
+Protease-activated receptor-1
+glucocorticoid receptor
+serine protease
+matrix metalloproteinase-3
+annexin V
+interleukin IL-1beta
+beclin 1
+MicroRNA miR-221
+TGF-beta 1
+miR -221
+matrix metalloproteinase-9
+TGF- b
+microRNA miR-155
+interleukin IL-1b
+Smad 7
+SMAD 3
+cyclin D1
+hypoxia-inducible factor-1a
+TGF -b1
+---------------------------------------------#####  TERM OF LENGTH 3 #####
+insulin-like growth factor-I
+bone morphogenetic protein
+transforming growth factor-beta
+superoxide dismutase 3
+Histone deacetylase 6
+tumor necrosis factor-alpha
+hypoxia-inducible factor 1a
+transforming growth factor-beta1
+folate receptor beta
+smooth muscle a-actin
+Jun NH2-terminal kinase
+serum amyloid P
+NADPH oxidase 4
+Toll-like receptor 4
+ANG converting enzyme
+C/EBP homologous protein
+Cysteine-rich protein 1
+a-smooth muscle actin
+Yin Yang 1
+Transforming growth factor-b
+Aortic carboxypeptidase-like protein
+Pigment epithelium-derived factor
+Transforming growth factor-beta
+beta 1 integrin
+Toll-like receptor 9
+glucagon like peptide-1
+extracellular superoxide dismutase
+Forkhead Box F1
+cytosolic phospholipase A2
+Transforming growth factor-beta1
+alpha-smooth muscle actin
+Thymic stromal lymphopoietin
+Janus kinase 2
+terminal deoxynucleotidyl transferase
+leucine-rich alpha-2 glycoprotein
+poly-ADP ribose polymerase
+megakaryoblastic leukemia 1
+acyl-CoA oxidase 1
+Interleukin IL 8
+hyaluronan synthase 2
+T beta RII
+Tumor necrosis factor-alpha
+protease-activated receptor PAR-2
+insulin-like growth factor-1
+focal adhesion kinase
+protein kinase B
+PDGF-A and -B
+Hepatocyte growth factor
+serum response factor
+fibroblast growth factor-2
+transforming growth factor-b
+Wilms' tumor 1
+matrix metalloproteinase MMP-9
+plasminogen activator inhibitor-1
+transforming growth factor-b1
+peroxisome proliferator-activated receptor-y
+5-HTR1A/B and 5-HTR2B
+Transforming growth factor-b1
+lymphotoxin beta receptor
+150-kDa oxygen-regulated protein
+Insulin-like growth factor-1
+hepatocyte growth factor
+---------------------------------------------#####  TERM OF LENGTH 4 #####
+Wnt1-inducible signaling protein 1
+Janus kinase type 2
+transforming growth factor beta
+transforming growth factor b-1
+Transforming growth factor TGF-beta1
+Krebs Von Den Lungen-6
+CC chemokine receptor 2
+transforming growth factor b
+Transforming growth factor beta1
+Transforming growth factor beta
+Transforming growth factor TGF-b1
+bone morphogenetic protein 7
+transforming growth factor-beta 1
+insulin-like growth factor I
+plasminogen activator inhibitor 1
+Extracellular Matrix Metalloproteinase Inducer
+transforming growth factor b1
+transforming growth factor beta1
+epidermal growth factor receptor
+claudins-1, -3, and -5
+extent, type B receptors
+prostaglandin F PGF receptor
+serum albumin HSA-thioredoxin 1
+focal adhesion kinase-related nonkinase
+discoidin domain receptor 2
+connective tissue growth factor
+tissue inhibitors of metalloproteinases-1
+endothelin type A receptors
+Collagen Triple Helix Repeat-Containing-1
+X-linked inhibitor of apoptosis
+transforming growth factor beta-1
+Vascular endothelial growth factor
+monocyte chemoattractant protein 1
+cartilage oligomeric matrix protein
+transforming growth factor -b1
+Transforming growth factor-beta 1
+Connective tissue growth factor
+transforming growth factor TGF-beta1
+vascular endothelial growth factor
+Transforming growth factor b-1
+Transforming growth factor b
+tumor necrosis factor alpha
+IL8, -6, and -1B
+---------------------------------------------#####  TERM OF LENGTH 5 #####
+Enhancer of zeste homolog 2
+transforming growth factor beta 1
+transforming growth factor TGF-beta 1
+fibroblast growth factor receptor 2
+3-hydroxy-3-methylglutaryl CoenzymeA HMG CoA reductase
+Mitogen-activated protein kinase-activated protein kinase-2
+transient receptor potential vanilloid 4
+High mobility group AT-hook 2
+latent membrane protein LMP 1
+mothers against decapentaplegic homolog 3
+transforming growth factor b expression
+suppressor of cytokine signaling 1
+Transforming growth factor beta 1
+Insulin-like growth factor binding protein-3
+WNT1-inducible signaling pathway protein 1
+Cub domain containing protein 1
+LTBP] 1, 2, and 4
+---------------------------------------------#####  TERM OF LENGTH 6 #####
+Receptor for advanced glycation end products
+nuclear factor erythroid 2-related factor 2
+T-cell lymphoma invasion and metastasis 1
+---------------------------------------------#####  TERM OF LENGTH 7 #####
+signal transducer and activator of transcription 3
+secreted protein acidic and rich in cysteine
+---------------------------------------------#####  TERM OF LENGTH 8 #####
+platelet-derived growth factor isoforms PDGF A and B

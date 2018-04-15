@@ -1,0 +1,20 @@
+{
+    "hashTermFiles": {
+        "2": ["genes_2grams.txt"],
+        "3": ["genes_3grams.txt"],
+        "4": ["genes_4grams.txt"],
+        "5": ["genes_5grams.txt"],
+        "6": ["genes_6grams.txt"],
+        "7": ["genes_7grams.txt"],
+        "8": ["genes_8grams.txt"]
+    },
+    "hashTerms": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": []
+    }
+}
